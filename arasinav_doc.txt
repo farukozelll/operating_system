@@ -1,0 +1,5 @@
+Çok temel işlemleri gerçekleştiren mini bir işletim sistemi geliştiriniz. 
+Geliştirdiğiniz işletim sisteminin bir GUI'ye sahip olmasına gerek yok.
+Klasör oluşturma, silme, kopyalama, kesme; metin dosyası oluşturma, kopyalama, kesme ve silme gibi işlemleri yapması yeterlidir.
+Mini işletim sisteminiz bir USB Flash bellek üzerinde çalışması yeterlidir.
+Sistem Flash bellekten boot edildiğinde mini işletim sisteminiz başlatılabilsin.
